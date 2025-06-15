@@ -1,0 +1,15 @@
+Doctor Details:
+Dr. Omar is a surgeon whose total fee is 30.799999
+Number of Scheduled Surgeries is: 2
+Scheduled Surgeries for Dr.Omar:
+Surgery 1: Patient: bombo, Date: 6/9
+Surgery 2: Patient: ashraf, Date: 31/7
+Doctor Details:
+Dr. miusa is a Specialist with Tawleed whose total fee is 541.200012
+Doctor Details:
+Dr. Mousa is a surgeon whose total fee is 103.949997
+Number of Scheduled Surgeries is: 3
+Scheduled Surgeries for Dr.Mousa:
+Surgery 1: Patient: ibrahim, Date: 8/7
+Surgery 2: Patient: abdallah, Date: 9/3
+Surgery 3: Patient: weam, Date: 12/7
